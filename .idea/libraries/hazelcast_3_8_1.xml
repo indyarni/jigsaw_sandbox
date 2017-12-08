@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hazelcast-3.8.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hazelcast/hazelcast/3.8.1/hazelcast-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
